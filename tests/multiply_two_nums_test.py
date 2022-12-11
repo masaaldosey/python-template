@@ -1,5 +1,7 @@
 from __future__ import annotations
+
 from python_template.product import multiply_two_nums
+
 
 def test_multiplication():
     assert multiply_two_nums(3, 3) == 9
