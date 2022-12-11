@@ -1,2 +1,2 @@
 # python-template
-A very minimal Python project template. 
+A very minimal Python project template.
