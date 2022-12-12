@@ -1,4 +1,5 @@
 [![build](https://github.com/masaaldosey/python-template/actions/workflows/tests.yml/badge.svg)](https://github.com/masaaldosey/python-template/actions/workflows/tests.yml)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/masaaldosey/python-template/main.svg)](https://results.pre-commit.ci/latest/github/masaaldosey/python-template/main)
 [![codecov](https://codecov.io/gh/masaaldosey/python-template/branch/main/graph/badge.svg?token=WMM2Wzcjm8)](https://codecov.io/gh/masaaldosey/python-template)
 
 # python-template
